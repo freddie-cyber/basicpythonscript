@@ -1,1 +1,1 @@
-# basicpythonscript
+# simple python program
